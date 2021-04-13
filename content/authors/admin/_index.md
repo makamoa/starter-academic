@@ -23,20 +23,22 @@ organizations:
   - name: King Abdullah University of Science and Technology (KAUST)
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD in Electrical and Computer Engineering "
+      institution: King Abdullah University of Science and Technology
+      year: ""
+    - course: "MSc in Physics "
+      institution: Novosibirsk State University (NSU)
+      year: 2018
+    - course: BSc in Physics
+      institution: Novosibirsk State University (NSU)
+      year: 2016
 superuser: true
 highlight_name: false
 title: Maksim Makarenko
 email: maksim.makarenko@kaust.edu.sa
 ---
-Maksim Makarenko is a Ph. D student at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/)), working under the supervision of Prof. Andrea Fratalocchi in the Primalight research group ([IVUL](https://ivul.kaust.edu.sa/)), part of the Electrical and Computer Engineering (ECE) department.
+I am a Ph.D. student at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/)), working under the supervision of Prof. Andrea Fratalocchi at the Primalight research group ([Primalight](<>)), part of the Electrical and Computer Engineering (ECE) department. My research is centered around the design of AI-driven complex imaging and computational systems based on photonic metamaterials. 
+
+My responsibility includes developing an effective Machine Learning solutions to the flat-optics optimization problem to create a complex imaging and photonics-based computational systems. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
