@@ -1,6 +1,6 @@
 ---
 role: PhD Student in Electrical and Computer Engineering (ECE) at KAUST
-avatar_filename: zabfdndlg8fh9mpnnqjbc7qtndvxjmevicg8_n35.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
