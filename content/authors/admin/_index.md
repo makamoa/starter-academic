@@ -1,5 +1,5 @@
 ---
-role: PhD Student in Electrical and Computer Engineering (ECE) at KAUST
+role: Ph. D. Student in Electrical and Computer Engineering (ECE)
 avatar_filename: avatar.jpg
 bio: ""
 interests:
