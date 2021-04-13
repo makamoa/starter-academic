@@ -1,6 +1,6 @@
 ---
-title: Maksim Makarenko
 role: PhD Student in Electrical and Computer Engineering (ECE) at KAUST
+avatar_filename: zabfdndlg8fh9mpnnqjbc7qtndvxjmevicg8_n35.jpg
 bio: ""
 interests:
   - Machine Learning
@@ -32,9 +32,10 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: maksim.makarenko@kaust.edu.sa
 superuser: true
 highlight_name: false
+title: Maksim Makarenko
+email: maksim.makarenko@kaust.edu.sa
 ---
 Maksim Makarenko is a Ph. D student at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/)), working under the supervision of Prof. Andrea Fratalocchi in the Primalight research group ([IVUL](https://ivul.kaust.edu.sa/)), part of the Electrical and Computer Engineering (ECE) department.
 
