@@ -21,6 +21,11 @@ social:
     link: https://www.linkedin.com/in/maksim-makarenko-a75a4b201/
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: media/Resume-Maksim-Makarenko.pdf
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: King Abdullah University of Science and Technology (KAUST)
 education:
@@ -41,6 +46,6 @@ email: maksim.makarenko@kaust.edu.sa
 ---
 I am a Ph.D. student at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/)), working under the supervision of Prof. Andrea Fratalocchi at the Primalight research group ([Primalight](<>)), part of the Electrical and Computer Engineering (ECE) department. My research is centered around the design of AI-driven complex imaging and computational systems based on photonic metamaterials. 
 
-My responsibility includes developing an effective Machine Learning solutions to the flat-optics optimization problem to create a complex imaging and photonics-based computational systems. 
+My responsibility includes developing effective Machine Learning solutions to the flat-optics optimization problem to create complex imaging and photonics-based computational systems. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume-Maksim-Makarenko.pdf" "newtab" >}}resumé{{< /staticref >}}.
