@@ -11,14 +11,16 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - display:
       header: false
+    icon_pack: ai
+    icon: google-scholar
     link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7zRSB21Bc8qqYm_Wb3eQ2IAXIP-PpOaV4-rgfnpqI3ZoxzJLL16gtV5eID7X1GX-9HrZEDuBRdcP7bkvGtN4ZslQSJug&user=jXPpMXkAAAAJ
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/maksim-makarenko-a75a4b201/
     icon_pack: fab
-    icon: scholar
+    icon: linkedin
 organizations:
   - name: King Abdullah University of Science and Technology (KAUST)
 education:
