@@ -1,7 +1,13 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: |-
+  Hyplex system, a data-driven hyperspectral imaging camera, which uses
+  state-of-the-art metasurfaces to replace macroscopic components with highly
+  integrated dielectric nanoresonators that manipulate light as a feed-forward
+  neural network.
+authors:
+  - Maksim Makarenko
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: https://www.makarenko.co/project/example/
@@ -9,6 +15,7 @@ url_slides: ""
 title: "Hyplex: A real-rime hyperspectral imaging via trained metasurface encoders"
 tags:
   - Deep Learning
+categories: []
 links:
   - icon: twitter
     icon_pack: fab
