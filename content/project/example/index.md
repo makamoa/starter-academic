@@ -3,8 +3,8 @@ slides: example
 url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00Z
-external_link: https://www.makarenko.co/project/hyplex/
+date: 2016-04-27T00:00:00.000Z
+external_link: https://www.makarenko.co/project/example/
 url_slides: ""
 title: "Hyplex: A real-rime hyperspectral imaging via trained metasurface encoders"
 tags:
