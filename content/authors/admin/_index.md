@@ -48,4 +48,4 @@ I am a Ph.D. candidate at King Abdullah University of Science and Technology ([K
 
 My responsibility includes developing effective Machine Learning solutions to the flat-optics optimization problem to create complex imaging and photonics-based computational systems. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/maksimmakarenko.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.makarenko.co/assets/media/maksimmakarenko.pdf" "newtab" >}}resumé{{< /staticref >}}.
