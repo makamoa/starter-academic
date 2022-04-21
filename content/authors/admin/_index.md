@@ -1,12 +1,12 @@
 ---
-role: Ph. D. Student in Electrical and Computer Engineering (ECE)
+role: Ph. D. Candidate in Electrical and Computer Engineering (ECE)
 avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
-  - Nonlinear Dynamics
-  - Imaging Systems
   - Computer Vision
+  - Optimization
+  - Optics
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,7 +44,7 @@ highlight_name: false
 title: Maksim Makarenko
 email: maksim.makarenko@kaust.edu.sa
 ---
-I am a Ph.D. student at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/)), working under the supervision of Prof. Andrea Fratalocchi at the Primalight research group ([Primalight](<>)), part of the Electrical and Computer Engineering (ECE) department. My research is centered around the design of AI-driven complex imaging and computational systems based on photonic metamaterials. 
+I am a Ph.D. candidate at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/)), working under the supervision of Prof. Andrea Fratalocchi at the Primalight research group ([Primalight](<>)), part of the Electrical and Computer Engineering (ECE) department. My research is centered around the design of AI-driven complex imaging and computational systems based on photonic metamaterials. 
 
 My responsibility includes developing effective Machine Learning solutions to the flat-optics optimization problem to create complex imaging and photonics-based computational systems. 
 
