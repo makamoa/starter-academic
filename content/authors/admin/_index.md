@@ -23,7 +23,7 @@ social:
     icon: linkedin
   - display:
       header: false
-    link: media/Resume-Maksim-Makarenko.pdf
+    link: assets/media/maksimmakarenko.pdf
     icon_pack: ai
     icon: cv
 organizations:
